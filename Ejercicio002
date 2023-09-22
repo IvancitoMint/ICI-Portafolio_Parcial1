@@ -1,0 +1,14 @@
+# Ejercicio 2
+
+## Enunciado del Problema:
+> Obtenga el promedio de tres numeros capturados.
+
+## Análisis:
+1. > Se asignan los valores a las variables.
+2. > n1=9, n2=6, n3=6.
+3. > Las tres variables se suman y se almacenan en la variable "promedio".
+4. > Se muestra el resultado almacenado en la variable "promedio".
+   
+## Diagrama de Flujo de Datos (DFD):
+
+## Prueba de Escritorio:
