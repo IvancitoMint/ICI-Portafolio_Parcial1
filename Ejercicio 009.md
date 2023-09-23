@@ -1,7 +1,7 @@
 # Ejercicio 9
 
 ## Enunciado del Problema:
-> Obtener la suma de todos los cuadrados de los nueros pares entre 0 y 20 consecutivos.
+> Obtener la suma de todos los cuadrados de los numeros pares entre 0 y 20 consecutivos.
 
 ## Análisis:
 1. > Se declara la variable "c=0".
